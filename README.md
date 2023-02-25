@@ -2,7 +2,7 @@
 
 ### 💪 This is a Front-end Engineer 💪
 
-## Welcome to my profile. 💥💥💥
+### Welcome to my profile. 💥💥💥
 
 - Angular
 - React
